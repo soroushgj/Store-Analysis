@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-<img src="https://github.com/soroushgj/Store-Analysis/blob/main/images/seg.PNG"  width="60%">
+<img src="https://github.com/soroushgj/Store-Analysis/blob/main/images/seg.PNG"  width="80%">
 </p>
 <br/>
 
@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-<img src="https://github.com/soroushgj/Store-Analysis/blob/main/images/income-spent.jpg"  width="60%">
+<img src="https://github.com/soroushgj/Store-Analysis/blob/main/images/income-spent.jpg"  width="80%">
 </p>
   
 <br/>
@@ -25,7 +25,7 @@
 <br/>
 
 <p align="center">
-<img src="https://github.com/soroushgj/Store-Analysis/blob/main/images/fav.jpg" width="60%">
+<img src="https://github.com/soroushgj/Store-Analysis/blob/main/images/fav.jpg" width="80%">
 </p>
 
 <br/>
