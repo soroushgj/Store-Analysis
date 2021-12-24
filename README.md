@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center" width="70%">
-<img src="https://github.com/soroushgj/Store-Analysis/blob/main/images/income-spent.jpg">
+<img src="https://github.com/soroushgj/Store-Analysis/blob/main/images/fav.jpg">
 </p>
   
 <br/>
