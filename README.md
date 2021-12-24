@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-<img src="https://github.com/soroushgj/Store-Analysis/blob/main/images/seg.PNG"  width="80%">
+<img src="https://github.com/soroushgj/Store-Analysis/blob/main/images/seg.PNG"  width="95%">
 </p>
 <br/>
 
