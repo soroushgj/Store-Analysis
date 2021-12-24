@@ -2,7 +2,7 @@
 دیتاستی که در این تحلیل مورد بررسی قرار میگیرد، اطلاعات مربوط به خریدهای صورت گرفته از یک فروشگاه است که از سه کانال وب سایت، کاتالوگ و فروشگاه فیزیکی اقدام به فروش محصولات خود میکند. در تحلیل صورت گرفته پس از ملاحضات و اکتشافات اولیه، ابتدا تلاش شده است تا دسته بندی برای مشتریان بنا بر فاصله از اخرین خرید، تعداد خریدهای صورت گرفته و ارزش خریدهای صورت گرفته (RFM) انجام شود
 <br/>
 
-<p align="center" width="50%">
+<p align="center" width="30%">
 <img src="https://github.com/soroushgj/Store-Analysis/blob/main/images/seg.PNG">
 </p>
 <br/>
@@ -10,7 +10,7 @@
 سپس در مراحل بعدی با تکیه بر دسته بندی انجام شده بر روی مشتریان، تفاوت رفتار و عادت های خرید توسط مشتریان بررسی شده است
 <br/>
 
-<p align="center" width="70%">
+<p align="center" width="50%">
 <img src="https://github.com/soroushgj/Store-Analysis/blob/main/images/income-spent.jpg">
 </p>
   
@@ -24,7 +24,7 @@
 زمانی هم که این کار را انجام میدهند، بیشتر به دنبال محصولات پرفروش فروشگاه یعنی گوشت و شراب هستند
 <br/>
 
-<p align="center" width="80%">
+<p align="center" width="60%">
 <img src="https://github.com/soroushgj/Store-Analysis/blob/main/images/fav.jpg">
 </p>
 
